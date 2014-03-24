@@ -1,4 +1,4 @@
-# Hello world routing
+# "Hello World" plugin - routing example
 
 Simple "Hello World" plugin, which illustrates URL routing.
 
